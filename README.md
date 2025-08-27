@@ -1,9 +1,31 @@
 # İzole Enerji – Building Insulation & Energy Saving Platform  
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?logo=nuget&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-blue?logo=axios&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+
+<div align="center">
+<h2> &nbsp;Tech Stack</h2>
+
+<!-- Backend -->
+![.NET Core](https://img.shields.io/badge/.NET%20Core-Backend-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-ORM-6DB33F?logo=nuget&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-ObjectMapping-FF6F00?logo=autodesk&logoColor=white)
+![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-DesignPattern-4B0082?logo=archlinux&logoColor=white)
+
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-HTTPClient-5A29E4?logo=axios&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-7952B3?logo=bootstrap&logoColor=white)
+
+<!-- Project Context -->
+![Thesis](https://img.shields.io/badge/Thesis-Project-FF1493?logo=academia&logoColor=white)
+![TÜBİTAK](https://img.shields.io/badge/TÜBİTAK-Supported-DC143C?logo=turkishairlines&logoColor=white)
+</div>
+
+---
+
+## 📸 Screenshot  
+
+Here’s a preview of the calculation page:  
+
+<img src="./izoleEnerji_CalculatePage.jpeg" alt="IzoleEnerji Calculation Page" width="900"/>  
 
 ---
 
@@ -30,14 +52,6 @@ This project aims to give users **actionable insights** for reducing energy cons
 - **Energy Savings Reports** → Offers insights on potential energy reduction.  
 - **Responsive Design** → Optimized for multiple devices using Bootstrap.  
 - **Clean Architecture** → AutoMapper & Entity Framework used for scalable backend.  
-
----
-
-## 📸 Screenshot  
-
-Here’s a preview of the calculation page:  
-
-<img src="./izoleEnerji_CalculatePage.jpeg" alt="IzoleEnerji Calculation Page" width="900"/>  
 
 ---
 
